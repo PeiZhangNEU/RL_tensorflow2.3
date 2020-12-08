@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8acfb987-424b-48e9-9924-d4be8bec6b90" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="c41c40c0-b24a-4082-94bc-213a05d21bbe" />
+  <component name="ProjectId" id="1jV6hzid01iwwVEFiLnOrVX87NN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/RL_All" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\deeplearning\强化学习\deep_learning\RL_All" />
+      <recent name="D:\deeplearning\强化学习\deep_learning" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.run_this_Sarsalambda">
+    <configuration name="RL_All" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="deep_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\conda\envs\tfgpu\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RL_All" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="deeplearning" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="deep_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\conda\envs\tfgpu\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pycharm代码" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="charm的一些代码" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\conda\envs\tfgpu\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_this_Qlearning" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="deep_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RL_All" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RL_All/run_this_Qlearning.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_this_Sarsa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="deep_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RL_All" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RL_All/run_this_Sarsa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_this_Sarsalambda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="deep_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RL_All" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RL_All/run_this_Sarsalambda.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.pycharm代码" />
+      <item itemvalue="Python.RL_All" />
+      <item itemvalue="Python.deeplearning" />
+      <item itemvalue="Python.run_this_Sarsalambda" />
+      <item itemvalue="Python.run_this_Qlearning" />
+      <item itemvalue="Python.run_this_Sarsa" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run_this_Sarsalambda" />
+        <item itemvalue="Python.run_this_Sarsa" />
+        <item itemvalue="Python.run_this_Qlearning" />
+        <item itemvalue="Python.RL_All" />
+        <item itemvalue="Python.deeplearning" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8acfb987-424b-48e9-9924-d4be8bec6b90" name="默认更改列表" comment="" />
+      <created>1603877034245</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603877034245</updated>
+      <workItem from="1603877035433" duration="908000" />
+      <workItem from="1603954291725" duration="7300000" />
+      <workItem from="1604020946331" duration="3154000" />
+      <workItem from="1604024456309" duration="2090000" />
+      <workItem from="1605486960318" duration="33000" />
+      <workItem from="1605486994342" duration="51000" />
+      <workItem from="1605487058681" duration="9000" />
+      <workItem from="1605487068549" duration="6329000" />
+      <workItem from="1605493952187" duration="15000" />
+      <workItem from="1605494126137" duration="679000" />
+      <workItem from="1605514219458" duration="3439000" />
+      <workItem from="1605521296615" duration="574000" />
+      <workItem from="1605521889970" duration="6549000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2143" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605522201696">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1605490121704" />
+    <state x="2143" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1605522201696" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1603954537883" />
+    <state x="2408" y="97" key="#run_this_Qlearning" timestamp="1605522061645">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="2408" y="97" key="#run_this_Qlearning/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1605522061645" />
+    <state x="2419" y="97" key="#run_this_Sarsalambda" timestamp="1605521944041">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="2419" y="97" key="#run_this_Sarsalambda/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1605521944041" />
+    <state x="2468" y="167" key="FileChooserDialogImpl" timestamp="1605522080900">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1605490105302" />
+    <state x="2468" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1605522080900" />
+    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1603954318417" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1605528975939">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1605528975939" />
+    <state width="1493" height="201" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1605527061160" />
+    <state width="1493" height="359" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604026565902" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1605528975939">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1605528975939" />
+    <state width="1493" height="201" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1605527061160" />
+    <state width="1493" height="359" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604026565902" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1605528975939">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1605528975939" />
+    <state width="1493" height="201" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1605527061160" />
+    <state width="1493" height="359" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604026565902" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1605528975939">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1605528975939" />
+    <state width="1493" height="201" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1605527061160" />
+    <state width="1493" height="359" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604026565902" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1605528975939">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1605528975939" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1605522124414" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1605528975939">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1605528975939" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1605522124414" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1605528975939">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1605528975939" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1605522124414" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1605528975939">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1605528975939" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1605522124414" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1603954487588">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1603954487588" />
+    <state x="2387" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1605521905319">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="467" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1605514220092" />
+    <state x="2387" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1605521905319" />
+    <state x="467" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604024456465" />
+    <state x="2051" y="0" width="1324" height="652" key="dock-window-1" timestamp="1604022119712">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2051" y="0" width="1324" height="652" key="dock-window-1/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604022119712" />
+    <state x="2021" y="128" width="1326" height="652" key="dock-window-2" timestamp="1603956513254">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2021" y="128" width="1326" height="652" key="dock-window-2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1603956513254" />
+    <state x="616" y="0" width="745" height="824" key="find.popup" timestamp="1603877056048">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="616" y="0" width="745" height="824" key="find.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1603877056048" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/deep_learning$run_this.coverage" NAME="run_this Coverage Results" MODIFIED="1605489579546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/two_demen_q" />
+    <SUITE FILE_PATH="coverage/deep_learning$rl.coverage" NAME="rl Coverage Results" MODIFIED="1605487880689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharm$RLearn_brain.coverage" NAME="RLearn_brain Coverage Results" MODIFIED="1604025119981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/two_demen_q" />
+    <SUITE FILE_PATH="coverage/deep_learning$run_this_sarsa.coverage" NAME="run_this_sarsa Coverage Results" MODIFIED="1605493809067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RL_All" />
+    <SUITE FILE_PATH="coverage/pycharm$env.coverage" NAME="env Coverage Results" MODIFIED="1604025112939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/two_demen_q" />
+    <SUITE FILE_PATH="coverage/pycharm$treasure_on_right.coverage" NAME="treasure_on_right Coverage Results" MODIFIED="1603956222249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MorvanZhou-Reinforcement-learning-with-tensorflow-master/MorvanZhou-Reinforcement-learning-with-tensorflow-master/contents/1_command_line_reinforcement_learning" />
+    <SUITE FILE_PATH="coverage/deep_learning$run_this_Sarsa.coverage" NAME="run_this_Sarsa Coverage Results" MODIFIED="1605522158842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RL_All" />
+    <SUITE FILE_PATH="coverage/charm$rl.coverage" NAME="rl Coverage Results" MODIFIED="1603877291864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharm$run_this.coverage" NAME="run_this Coverage Results" MODIFIED="1604025123011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/two_demen_q" />
+    <SUITE FILE_PATH="coverage/deep_learning$run_this_Qlearning.coverage" NAME="run_this_Qlearning Coverage Results" MODIFIED="1605522092321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RL_All" />
+    <SUITE FILE_PATH="coverage/deep_learning$run_this_Sarsalambda.coverage" NAME="run_this_Sarsalambda Coverage Results" MODIFIED="1605528922107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RL_All" />
+    <SUITE FILE_PATH="coverage/deep_learning$run_this__1_.coverage" NAME="run_this (1) Coverage Results" MODIFIED="1605492901184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sarsa" />
+    <SUITE FILE_PATH="coverage/pycharm$rl.coverage" NAME="rl Coverage Results" MODIFIED="1603954327481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/deep_learning$run_this__2_.coverage" NAME="run_this (2) Coverage Results" MODIFIED="1605493780421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RL_All" />
+    <SUITE FILE_PATH="coverage/pycharm$maze_env.coverage" NAME="maze_env Coverage Results" MODIFIED="1603962804785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MorvanZhou-Reinforcement-learning-with-tensorflow-master/MorvanZhou-Reinforcement-learning-with-tensorflow-master/contents/2_Q_Learning_maze" />
+  </component>
+</project>
